@@ -1,0 +1,34 @@
+/* ========================================
+                MAIN 
+   ======================================== */
+
+body {
+    background-color: teal;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    font-family: cursive;
+    font-size: 150%
+}
+
+img {
+    border: 10px solid goldenrod;
+    border-radius: 25%;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    padding: 15px;
+}
+
+/* ========================================
+                RESPONSIVE 
+   ======================================== */
+/* @media screen and (max-width: 360px) {
+    .column {
+      width: 100%;
+    }
+  } */
